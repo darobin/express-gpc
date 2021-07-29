@@ -1,0 +1,24 @@
+{
+  "name": "express-gpc",
+  "version": "1.0.0",
+  "description": "Easy detection of the GPC flag (https://globalprivacycontrol.org/)",
+  "main": "./index.js",
+  "scripts": {
+    "test": "mocha --reporter spec --bail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darobin/express-gpc.git"
+  },
+  "author": "Robin Berjon <robin@berjon.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darobin/express-gpc/issues"
+  },
+  "homepage": "https://github.com/darobin/express-gpc",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "dependencies": {
+  }
+}
